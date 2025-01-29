@@ -410,7 +410,7 @@ python-dateutil==2.8.2
 python-louvain==0.16
 python-slugify==8.0.4
 
-python-utils==3.12.8
+python-utils==3.9.1
 pytz==2024.2
 pyviz_comms==3.0.4
 PyYAML==6.0.2
