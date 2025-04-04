@@ -1,0 +1,12 @@
+
+streamlit
+streamlit-mic-recorder
+streamlit-chat
+groq
+langchain-groq
+langchain_community
+langchain
+chromadb
+gtts
+pydub
+python-dotenv
